@@ -8,4 +8,4 @@ A project created to find the relationship between rainfall and food waste using
 4. Random Forest
 5. K-means Clustering
 
-Project Summary available in file "Final Report.pdf"
+Project Summary available in file "Project Details.pdf"
